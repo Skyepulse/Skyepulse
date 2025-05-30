@@ -22,12 +22,12 @@ jobs:
 
       - name: Commit and push changes
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           git config user.name "Skyepulse"
           git config user.email "elmrys@gmail.com"
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
+          git pull origin main
           git add README.md
           git diff --quiet || git commit -m "Update README timestamp"
-          git pull --rebase origin $(git rev-parse --abbrev-ref HEAD)
-          git push
+          git push origin main
