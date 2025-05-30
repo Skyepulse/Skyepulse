@@ -41,6 +41,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
-          git add README.md
-          git diff --quiet || git commit -m "Update README timestamp"
+          git status
+          git add .
+          git status
+          git commit -m "Update README timestamp" || echo "No changes to commit"
           git push origin main
