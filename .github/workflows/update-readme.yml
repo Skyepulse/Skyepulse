@@ -22,8 +22,9 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Skyepulse"
+          git config user.email "elmrys@gmail.com"
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
           git add README.md
           git diff --quiet || git commit -m "Update README timestamp"
           git push
