@@ -21,5 +21,23 @@ Here are some ideas to get you started:
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Skyepulse&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=stars&bg_color=00000000&rank_icon=github">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyepulse&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 
-My latest project, an interactive Convolutional Neural Network visualizer to see animated the inner works of it's inference: [CLICK HERE](https://www.008032025.xyz)
-Latest drawn Image for my visualizer: ![LATEST IMAGE](https://www.008032025.xyz/latest_image)
+---
+
+### 🚀 Check Out My Latest Project!
+
+**🧠 Convolutional Neural Network Visualizer**  
+An interactive tool to **see animated inferences** and explore the **inner workings** of a CNN like never before.
+
+🔗 [**Click Here to Try It Live**](https://www.008032025.xyz)
+
+---
+
+### 🎨 Latest Image Drawn by the Visualizer
+
+<p align="center">
+  <img src="https://www.008032025.xyz/latest_image" alt="Latest Image" width="200"/>
+</p>
+
+> ✏️ This is the most recent image input used in the live CNN visualizer above — updating in real time as people interact with it!
+
+---
