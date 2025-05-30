@@ -22,3 +22,4 @@ Here are some ideas to get you started:
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyepulse&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 
 My latest project, an interactive Convolutional Neural Network visualizer to see animated the inner works of it's inference: [CLICK HERE](https://www.008032025.xyz)
+Latest drawn Image for my visualizer: ![LATEST IMAGE](https://www.008032025.xyz/latest_image)
