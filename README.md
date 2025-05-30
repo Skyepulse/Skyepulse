@@ -35,7 +35,7 @@ An interactive tool to **see animated inferences** and explore the **inner worki
 ### 🎨 Latest Image Drawn by the Visualizer
 
 <p align="center">
-  <img src="https://www.008032025.xyz/latest_image?t=1748640151" alt="Latest Image" width="200"/>
+  <img src="https://www.008032025.xyz/latest_image?t=1748643864" alt="Latest Image" width="200"/>
 </p>
 
 > ✏️ This is the most recent image input used in the live CNN visualizer above — updating in real time as people interact with it!
