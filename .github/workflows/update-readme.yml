@@ -21,6 +21,8 @@ jobs:
           sed "s/{{TIMESTAMP}}/${TIMESTAMP}/g" README.template.md > README.md
 
       - name: Commit and push changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           git config user.name "Skyepulse"
           git config user.email "elmrys@gmail.com"
