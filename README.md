@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 🚀 Check Out My Latest Project!
 
 **🧠 Convolutional Neural Network Visualizer**  
-An interactive tool to **see animated inferences** and explore the **inner workings** of a CNN like never before.
+An interactive tool to **see animated inferences** and explore the **inner workings** of a CNN with a BabylonJS Scene.
 
 🔗 [**Click Here to Try It Live**](https://www.008032025.xyz)
 
