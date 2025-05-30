@@ -27,7 +27,9 @@ jobs:
           git config user.name "Skyepulse"
           git config user.email "elmrys@gmail.com"
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
-          git pull origin main
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main  # ensures clean working tree
           git add README.md
           git diff --quiet || git commit -m "Update README timestamp"
           git push origin main
