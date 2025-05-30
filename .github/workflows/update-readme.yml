@@ -28,9 +28,15 @@ jobs:
           git reset --hard origin/main
 
       - name: Replace placeholder in README
-        run: |
-          sed "s/{{TIMESTAMP}}/${TIMESTAMP}/g" README.template.md > README.md
+        run: | 
+          sed "s/{{TIMESTAMP}}/$TIMESTAMP/g" README.template.md > README.md
 
+      - name: Print variables
+        run: |
+          echo "TIMESTAMP = $TIMESTAMP"
+          cat README.template.md
+          cat README.md
+    
       - name: Commit and push changes
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
