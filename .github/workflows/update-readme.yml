@@ -16,11 +16,7 @@ jobs:
       - name: Generate timestamp
         run: echo "TIMESTAMP=$(date +%s)" >> $GITHUB_ENV
 
-      - name: Replace placeholder in README
-        run: |
-          sed "s/{{TIMESTAMP}}/${TIMESTAMP}/g" README.template.md > README.md
-
-      - name: Commit and push changes
+      - name: Set up Git config and fetch latest
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
@@ -29,7 +25,16 @@ jobs:
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
           git fetch origin main
           git checkout main
-          git reset --hard origin/main  # ensures clean working tree
+          git reset --hard origin/main
+
+      - name: Replace placeholder in README
+        run: |
+          sed "s/{{TIMESTAMP}}/${TIMESTAMP}/g" README.template.md > README.md
+
+      - name: Commit and push changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
           git add README.md
           git diff --quiet || git commit -m "Update README timestamp"
           git push origin main
