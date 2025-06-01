@@ -13,8 +13,12 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate timestamp
-        run: echo "TIMESTAMP=$(date +%s)" >> $GITHUB_ENV
+      - name: Generate multiple random timestamps
+        run: |
+          for i in {1..8}; do
+            echo "TIMESTAMP$i=$(( $(date +%s) + $RANDOM ))" >> $GITHUB_ENV
+          done
+
 
       - name: Set up Git config and fetch latest
         env:
@@ -29,7 +33,7 @@ jobs:
 
       - name: Replace placeholder in README
         run: | 
-          sed "s/{{TIMESTAMP}}/$TIMESTAMP/g" README.template.md > README.md
+          sed "s/{{TIMESTAMP1}}/$TIMESTAMP1/g; s/{{TIMESTAMP2}}/$TIMESTAMP2/g; s/{{TIMESTAMP3}}/$TIMESTAMP3/g; s/{{TIMESTAMP4}}/$TIMESTAMP4/g; s/{{TIMESTAMP5}}/$TIMESTAMP5/g; s/{{TIMESTAMP6}}/$TIMESTAMP6/g; s/{{TIMESTAMP7}}/$TIMESTAMP7/g; s/{{TIMESTAMP8}}/$TIMESTAMP8/g" README.template.md > README.md
 
       - name: Print variables
         run: |
