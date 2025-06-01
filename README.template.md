@@ -47,6 +47,6 @@ An interactive tool to **see animated inferences** and explore the **inner worki
 
 
 
-> ✏️ These are selected by brandom among the the most recent images drawn by users and used as inputs in the live CNN visualizer above — updating in real time as people interact with it!
+> ✏️ These are selected by random among the the most recent images drawn by users and used as inputs in the live CNN visualizer above — updating in real time as people interact with it!
 
 ---
