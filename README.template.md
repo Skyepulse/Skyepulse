@@ -32,12 +32,21 @@ An interactive tool to **see animated inferences** and explore the **inner worki
 
 ---
 
-### 🎨 Latest Image Drawn by the Visualizer
+### 🎨 Latest Images Drawn by users of the Visualizer
 
-<p align="center">
-  <img src="https://www.008032025.xyz/latest_image?t={{TIMESTAMP}}" alt="Latest Image" width="200"/>
-</p>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://www.008032025.xyz/random_image?t={{TIMESTAMP1}}" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/random_image?t={{TIMESTAMP2}}" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/random_image?t={{TIMESTAMP3}}" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/random_image?t={{TIMESTAMP4}}" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/random_image?t={{TIMESTAMP5}}" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/random_image?t={{TIMESTAMP6}}" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/random_image?t={{TIMESTAMP7}}" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/random_image?t={{TIMESTAMP8}}" alt="Random Image" width="200"/>
+</div>
 
-> ✏️ This is the most recent image input used in the live CNN visualizer above — updating in real time as people interact with it!
+
+
+> ✏️ These are selected by brandom among the the most recent images drawn by users and used as inputs in the live CNN visualizer above — updating in real time as people interact with it!
 
 ---
