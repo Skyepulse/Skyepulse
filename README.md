@@ -35,14 +35,14 @@ An interactive tool to **see animated inferences** and explore the **inner worki
 ### 🎨 Latest Images Drawn by users of the Visualizer
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://www.008032025.xyz/api/random_image?t=1749510287" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1749504184" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1749507417" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1749496851" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1749523331" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1749516738" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1749519315" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1749509702" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1749504276" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1749520170" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1749525663" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1749506117" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1749520235" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1749518908" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1749518641" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1749526685" alt="Random Image" width="200"/>
 </div>
 
 
