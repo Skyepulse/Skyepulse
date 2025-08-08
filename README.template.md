@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🎓 Enrolled for my IGD Master at [Telecom Paris](https://www.telecom-paris.fr/).
 - 🌱 Currently working at [Barco](https://www.barco.com/en)!
-- 
+
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Skyepulse&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=stars&bg_color=00000000&rank_icon=github">
