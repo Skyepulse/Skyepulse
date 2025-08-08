@@ -2,7 +2,7 @@ name: Update README Timestamp
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: '0 0 2-31/2 * *' # At midnight on every 2nd, 4th, 6th... day of the month
   workflow_dispatch:
 
 jobs:
