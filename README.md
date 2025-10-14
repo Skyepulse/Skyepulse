@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Enrolled for my IGD Master at [Telecom Paris](https://www.telecom-paris.fr/).
-- 🌱 Currently working at [Barco](https://www.barco.com/en)!
+- 🌱 Worked last at [Barco](https://www.barco.com/en) as medical XR R&D software developer!
+- Looking for an internship starting April 2026!
 
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Skyepulse&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=stars&bg_color=00000000&rank_icon=github">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyepulse&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
@@ -40,14 +41,14 @@ An interactive tool to **see animated inferences** and explore the **inner worki
 ### 🎨 Latest Images Drawn by users of the Visualizer
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://www.008032025.xyz/api/random_image?t=1760430220" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1760417924" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1760435082" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1760439222" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1760417316" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1760417838" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1760422521" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1760428447" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1760466414" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1760466646" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1760468395" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1760485568" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1760485138" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1760486491" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1760488204" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1760488378" alt="Random Image" width="200"/>
 </div>
 
 
