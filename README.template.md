@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Enrolled for my IGD Master at [Telecom Paris](https://www.telecom-paris.fr/).
-- 🌱 Worked last at [Barco](https://www.barco.com/en) as medical XR R&D software developer!
-- Looking for an internship starting April 2026!
+- 🔭 Worked at [Ubisoft](https://www.laigames.com/games/ubisoft-all-star-vr) on the very exciting Ubisoft All Star Ride!
+- 🌱 Worked at [Barco](https://www.barco.com/en) as medical XR R&D software developer!
+- 🚀 Currently working at [Thales](https://www.thalesgroup.com/en) as a software simulation engineer.
 
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Skyepulse&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=stars&bg_color=00000000&rank_icon=github">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyepulse&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 Check Out My Latest Project!
+### Check Out My Latest Project!
 
 **🧠 Convolutional Neural Network Visualizer**  
 An interactive tool to **see animated inferences** and explore the **inner workings** of a CNN with a BabylonJS Scene.
