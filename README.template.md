@@ -2,35 +2,33 @@
 
 ![](https://komarev.com/ghpvc/?username=Skyepulse)
 
-<!--
-**Skyepulse/Skyepulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🎓 Enrolled for my IGD Master at [Telecom Paris](https://www.telecom-paris.fr/).
-- 🔭 Worked at [Ubisoft](https://www.laigames.com/games/ubisoft-all-star-vr) on the very exciting Ubisoft All Star Ride!
-- 🌱 Worked at [Barco](https://www.barco.com/en) as medical XR R&D software developer!
-- 🚀 Currently working at [Thales](https://www.thalesgroup.com/en) as a software simulation engineer.
-
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Skyepulse&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=stars&bg_color=00000000&rank_icon=github">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyepulse&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+- 🔭 Worked at [Ubisoft](https://www.laigames.com/games/ubisoft-all-star-vr), on the very exciting Ubisoft All Star Ride!
+- 🌱 Worked at [Barco](https://www.barco.com/en) as medical XR R&D software developer, on the Autostereoscopic Eonis screen!
+- 🚀 Currently working at [Thales France](https://www.thalesgroup.com/en) as a software simulation engineer.
 
 ---
 ### Check out my new [portfolio website](https://skyepulse.github.io) !
 
 ---
 
-### Check Out My Latest Project!
+### Check Out My Latest Projects!
+
+**:gear: 3D Physics Engine: SkyePhyX**  
+A lightweight AVBD 3D physics engine for research purposes. Contains advanced collision detection and constraint solving algorithms.
+
+🔗 [**Play the demo here**](https://skyepulse.github.io/projects/SkyePhyX/SkyePhyX.html)
+
+**🎨 WebGPU Rendering Techniques **  
+A collection of multiple rendering techniques using the WebGPU API in typescript.
+
+🔗 [**Visualize it here**](https://skyepulse.github.io/projects/webGPU-Basics-Collections/12)
+
+**:framed_picture: Voxel Compute Rendering Engine**  
+A holiday test project to create an efficient compute shader based voxel visualization engine.
+You are able to voxelize anything and render multiple billions of voxel in real time.
+
+🔗 [**Check out some cool voxel models here**](https://skyepulse.github.io/projects/skyegrid/)
 
 **🧠 Convolutional Neural Network Visualizer**  
 An interactive tool to **see animated inferences** and explore the **inner workings** of a CNN with a BabylonJS Scene.
