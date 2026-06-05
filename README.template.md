@@ -19,7 +19,7 @@ A lightweight AVBD 3D physics engine for research purposes. Contains advanced co
 
 🔗 [**Play the demo here**](https://skyepulse.github.io/projects/SkyePhyX/SkyePhyX.html)
 
-**🎨 WebGPU Rendering Techniques **  
+**🎨 WebGPU Rendering Techniques**  
 A collection of multiple rendering techniques using the WebGPU API in typescript.
 
 🔗 [**Visualize it here**](https://skyepulse.github.io/projects/webGPU-Basics-Collections/12)
