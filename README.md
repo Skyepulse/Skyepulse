@@ -19,7 +19,7 @@ A lightweight AVBD 3D physics engine for research purposes. Contains advanced co
 
 🔗 [**Play the demo here**](https://skyepulse.github.io/projects/SkyePhyX/SkyePhyX.html)
 
-**🎨 WebGPU Rendering Techniques **  
+**🎨 WebGPU Rendering Techniques**  
 A collection of multiple rendering techniques using the WebGPU API in typescript.
 
 🔗 [**Visualize it here**](https://skyepulse.github.io/projects/webGPU-Basics-Collections/12)
@@ -40,14 +40,14 @@ An interactive tool to **see animated inferences** and explore the **inner worki
 ### 🎨 Latest Images Drawn by users of the Visualizer
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://www.008032025.xyz/api/random_image?t=1780679080" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1780662447" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1780692474" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1780665630" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1780675130" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1780661835" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1780677838" alt="Random Image" width="200"/>
-  <img src="https://www.008032025.xyz/api/random_image?t=1780692561" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1780735906" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1780725975" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1780744411" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1780741791" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1780724797" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1780738487" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1780735543" alt="Random Image" width="200"/>
+  <img src="https://www.008032025.xyz/api/random_image?t=1780745839" alt="Random Image" width="200"/>
 </div>
 
 
